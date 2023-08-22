@@ -12,7 +12,8 @@ export function Experience(){
             <Skill image="/react.png" measure={2} years=""/>
             <Skill image="/js.png" measure={3} years=""/>
             <Skill image="/flutter.png" measure={1} years=""/>
-            <Skill image="/ts.png" measure={4} years=""/>           
+            <Skill image="/ts.png" measure={4} years=""/>    
+            <Skill image="/docker.png" measure={4} years=""/>         
           </div>
         </div>
     )
