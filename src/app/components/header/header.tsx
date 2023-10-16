@@ -9,9 +9,9 @@ export function Header(){
             <h3>Web/Mobile</h3>
           </div>
           <Image
-            src="/photo.jpg"
+            src="/profile.jpg"
             alt="Vercel Logo"
-            width={325}
+            width={310}
             height={300}
             priority
           />
